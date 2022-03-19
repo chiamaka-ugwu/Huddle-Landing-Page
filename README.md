@@ -20,7 +20,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://chiamaka-ugwu.github.io/Huddle-Landing-Page/](https://chiamaka-ugwu.github.io/Huddle-Landing-Page/)
 
 ## My process
 
@@ -31,5 +31,5 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@chiamaka-ugwu](https://www.frontendmentor.io/profile/chiamaka-ugwu)
+- Twitter - [@chiamakaugwu_](https://www.twitter.com/chiamakaugwu_)
